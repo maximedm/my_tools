@@ -82,3 +82,5 @@ List with links collected by Maxime to get an overview of different online tools
 
 ## 🤖 AI
 - 🤖 [ChatGPT3](https://chat.openai.com/chat): Chat with GPT-3
+- 🔍 [Perplexity](https://www.perplexity.ai/): Search tool that provides summaries of anything
+- 🤖 [Unofficial ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api): Unofficial API for ChatGPT written in JavaScript
