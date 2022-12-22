@@ -1,3 +1,5 @@
+List with links collected by Maxime to get an overview of different online tools.
+
 ## 🧑‍💼 Uncategorized Links
 - 💳 [Dummy Credit Card Generator](https://saijogeorge.com/dummy-credit-card-generator/): Generate fake credit card details to fill in forms
 
