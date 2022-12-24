@@ -84,3 +84,11 @@ List with links collected by Maxime to get an overview of different online tools
 - 🤖 [ChatGPT3](https://chat.openai.com/chat): Chat with GPT-3
 - 🔍 [Perplexity](https://www.perplexity.ai/): Search tool that provides summaries of anything
 - 🤖 [Unofficial ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api): Unofficial API for ChatGPT written in JavaScript
+
+## 📈 Useful Subreddits
+- 💰 [Personal Finance](https://www.reddit.com/r/personalfinance/): Learn about budgeting, saving, getting out of debt, credit, investing, and retirement planning.
+- 💸 [Passive Income](https://www.reddit.com/r/passive_income/): Community for building passive income streams.
+- 🏦 [Bogleheads](https://www.reddit.com/r/Bogleheads/): Passive investors following Jack Bogle's simple but powerful message to diversify and let compounding grow wealth.
+- 💰 [Financial Independence](https://www.reddit.com/r/financialindependence/): Place for people who are or want to become financially independent (FI), meaning not having to work for money.
+- 💰 [Investing](https://www.reddit.com/r/investing/): Community subreddit about all sorts of investing.
+
