@@ -22,6 +22,7 @@ List with links collected by Maxime to get an overview of different online tools
 - 🧩 [Relume](https://library.relume.io/): Webflow pre-made components
 - 🛠 [Web Development Resources](https://github.com/markodenic/web-development-resources): Library of web development tools and components
 - 🌍 [LocalWP](https://localwp.com/): Tool for managing local WordPress versions
+- 🖥️ [Responsively](https://responsively.app/): Website tool for seeing different screen outputs
 
 ## 🔍 Data Scraping
 - 👻 [Phantombuster](https://phantombuster.com/): AI tool for scraping data from platforms
@@ -31,6 +32,7 @@ List with links collected by Maxime to get an overview of different online tools
 ## 🏆 SEO Tools
 - 📝 [Plagiarism Check](https://www.prepostseo.com/): Check for plagiarism
 - 💰 [Advertisement Manager](https://adespresso.com/): Manage advertisements
+- 🚀 [Website Traffic Checker](https://ahrefs.com/traffic-checker): Check website traffic
 
 ## 🌟 Icons, SVGs, and Objects
 - 🎨 [Animated Icons](https://lordicon.com/icons): Collection of animated icons
