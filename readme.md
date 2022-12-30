@@ -86,6 +86,13 @@ List with links collected by Maxime to get an overview of different online tools
 - 🤖 [ChatGPT3](https://chat.openai.com/chat): Chat with GPT-3
 - 🔍 [Perplexity](https://www.perplexity.ai/): Search tool that provides summaries of anything
 - 🤖 [Unofficial ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api): Unofficial API for ChatGPT written in JavaScript
+- 🤖 [RunwayML](https://runwayml.com/): Generate and edit content in seconds
+- 📈 [Upscale](https://www.upscale.media): Enhance and upscale images for free
+- 🖥️ [Unfakepng](https://unfakepng.com/): Get rid of fake PNG backgrounds
+- 🎹 [Tunemy](https://tunemy.ai/): Stable diffusion tuner
+- 📝 [Easy Peasy](https://easy-peasy.ai/): Copywriting tool
+- 🤖 [Userpersona](https://userpersona.dev/): Generate AI user personas
+- 🤖 [Theresanaiforthat](https://theresanaiforthat.com/): AI tool library
 
 ## 📈 Useful Subreddits
 - 💰 [Personal Finance](https://www.reddit.com/r/personalfinance/): Learn about budgeting, saving, getting out of debt, credit, investing, and retirement planning.
